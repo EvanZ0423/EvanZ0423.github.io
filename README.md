@@ -2,7 +2,7 @@
 
 ## Brief
 
-I recently find out that emojis can be used in Markdown for vivid expressing.
+I recently found out that emojis can be used in Markdown for vivid expressing.
 
 There is a website of emojis compilation,[[emojihomepage.com](http://emojihomepage.com/)],a single clik on a certain emoji will copy that to your clipboard.
 
